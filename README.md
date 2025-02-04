@@ -8,6 +8,8 @@ This notebook focuses on **earthquake prediction** using **machine learning & ti
 - 🏢 **Safer Infrastructure**: Helps build earthquake-resistant structures.
 - 📊 **Better Risk Assessment**: Improves response strategies.
 
+### 🔗 [View Kaggle Notebook]([your-kaggle-link-here](https://www.kaggle.com/code/iamtheoneaj/earthquake-analysis-and-forecasting-codespaze))
+
 ---
 
 ## 🔬 **Understanding Earthquake Data**
